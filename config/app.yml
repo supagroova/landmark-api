@@ -1,0 +1,27 @@
+default:
+  port: 3000
+  logger: true
+  database:
+    host: localhost
+    database: wikilandmarks
+    user: '#{process.env.DB_USER}'
+    password: '#{process.env.DB_PASS}'
+    readOnly: true
+    connectionLimit: 100
+    charset: UTF8_GENERAL_CI
+
+development:
+  cache_assets: false
+
+test:
+  port: 3001
+  logger: false
+  database:
+    host: localhost
+    database: wikilandmarks_tests
+    user: '#{process.env.DB_USER}'
+    password: '#{process.env.DB_PASS}'
+    readOnly: false
+
+production:
+  port: #{process.env.PORT}

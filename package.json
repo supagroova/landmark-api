@@ -1,0 +1,24 @@
+{
+  "name": "landmarkapp-api",
+  "description": "Landmarks API for Landmark App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+  	"mysql": "2.x",
+  	"konfig": "*",
+    "morgan": "*",
+    "sax": "*",
+    "pace": "*",
+    "nodetime": "*"
+  },
+	"devDependencies": {
+	   "supertest": "*",
+     "glob": "*",
+     "underscore": "*",
+     "mocha": "*",
+     "should": "*",
+     "sinon": "*",
+     "mysql-promise": "*"
+	 }
+}

@@ -1,0 +1,39 @@
+{
+  "urls": [
+    {
+      "str": "//toolserver.org/~geohack/geohack.php?pagename=%E5%AE%81%E6%B3%A2%E9%9B%85%E6%88%88%E5%B0%94%E5%8A%A8%E7%89%A9%E5%9B%AD&params=29_48_29.06_N_121_40_24.66_E_",
+      "lat": 29.808072222222222,
+      "lng": 121.67351666666667
+    },
+    {
+      "str": "//toolserver.org/~geohack/geohack.php?pagename=%E4%B9%9D%E6%B1%9F%E5%B8%82%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D&params=29_34_01_N_115_58_23_E_scale:10000",
+      "lat": 29.566944444444445,
+      "lng": 115.97305555555556
+    },
+    {
+      "str": "//toolserver.org/~geohack/geohack.php?pagename=%E5%85%B4%E9%9A%86%E5%B1%B1%E4%B9%A1&params=42.4364_N_122.55247_E_region:CN_type:city",
+      "lat": 42.4364,
+      "lng": 122.55247
+    },
+    {
+      "str": "//toolserver.org/~geohack/geohack.php?pagename=User:Waihorace/SE/21st&params=61.1_N_77.1_W_",
+      "lat": 61.1,
+      "lng": -77.1
+    },
+    {
+      "str": "//toolserver.org/~geohack/geohack.php?pagename=%E7%86%8A%E5%B3%B6_(%E5%8D%97%E6%A5%B5%E6%B4%B2)&params=68.18_S_67.06_W_",
+      "lat": -68.18,
+      "lng": -67.06
+    },
+    {
+      "str": "//toolserver.org/~geohack/geohack.php?pagename=Template:PRC_admin/data/42/10/24/102/000&params=30.08013_N_112.44211_E_region:CN_type:city",
+      "lat": 30.08013,
+      "lng": 112.44211
+    },
+    {
+      "str": "//toolserver.org/~geohack/geohack.php?pagename=%E4%B8%9C%E6%B1%9F%E6%B0%B4%E5%BA%93&params=25_52_21_N_113_18_34_E_scale:100000",
+      "lat": 25.8725,
+      "lng": 113.30944444444444
+    }
+  ]
+}

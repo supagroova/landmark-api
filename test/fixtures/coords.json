@@ -1,0 +1,56 @@
+{
+  "coords": [
+    {
+      "str": "{{Coord|33|6|N|44|6|E|display=title}}",
+      "lat": 33.1,
+      "lng": 44.1
+    },
+    { 
+      "str": "{{coord|34.7125|N|33.1419|E|type:city|display=title}}",
+      "lat": 34.7125,
+      "lng": 33.1419
+    },
+    { 
+      "str": "{{coord|31|37|10|N|65|42|25|E|display=inline,title}}",
+      "lat": 31.619444444444444,
+      "lng": 65.70694444444445
+    },
+    { 
+      "str": "{{coord|24.088254|32.878722}}",
+      "lat": 24.088254,
+      "lng": -32.878722
+    },
+    { 
+      "str": "{{coord|-34.246|136.187|region:AU-SA_type:city(1351)|display=inline,title|notes=<ref>{{Gazetteer of Australia|name=Sheep Hill|id=198955}} Retrieved 25 December 2009.</ref>}}",
+      "lat": -34.246,
+      "lng": -136.187
+    },
+    { 
+      "str": "{{coord|136.187068|E|34.246899|S|display=title}}",
+      "lat": -34.246899,
+      "lng": 136.187068
+    },
+    { 
+      "str": "{{Coord|24|16|59|N|153|59|11|E|type:landmark_region:JP-13|name=日本最東端}}",
+      "lat": 24.283055555555556,
+      "lng": 153.98638888888888
+    },
+    { 
+      "str": "{{Coord|32.7|-86.7|type:adm2nd_dim:1000000_source:USGS|display=title}}",
+      "lat": 32.7,
+      "lng": 86.7
+    },
+    { 
+      "str": "{{coord|25.619|N| 101.086|E|format=dms|display=title}}",
+      "lat": 25.619,
+      "lng": 101.086
+    },
+    { 
+      "str": "{{coord|40|51|49″|N|73|52|42|W|type:landmark|display=inline,title}}",
+      "lat": 40.86361111111111,
+      "lng": -73.87833333333333
+    }
+
+    
+  ]
+}

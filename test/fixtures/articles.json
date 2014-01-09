@@ -1,0 +1,904 @@
+{
+    "live_en": [
+        {
+            "coord": {
+                "x": 1.6231,
+                "y": 48.1736
+            },
+            "id": 15706299,
+            "title": "Baignolet",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6519,
+                "y": 48.5333
+            },
+            "id": 5558252,
+            "title": "Bailleau-Armenonville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4781,
+                "y": 48.4094
+            },
+            "id": 15706309,
+            "title": "Barjouville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6553,
+                "y": 48.2981
+            },
+            "id": 15738627,
+            "title": "Beauvilliers, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.48,
+                "y": 48.5369
+            },
+            "id": 15706347,
+            "title": "Berch\u00e8res-Saint-Germain",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5542,
+                "y": 48.3858
+            },
+            "id": 15706340,
+            "title": "Berch\u00e8res-les-Pierres",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5092,
+                "y": 48.565
+            },
+            "id": 15706407,
+            "title": "Bouglainval",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.57116,
+                "y": 48.4209
+            },
+            "id": 13860953,
+            "title": "Br\u00e9tigny, Eure-et-Loir",
+            "type": ""
+        },
+        {
+            "coord": {
+                "x": 1.3975,
+                "y": 48.4894
+            },
+            "id": 1475795,
+            "title": "Bailleau-l'\u00c9v\u00eaque",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3308,
+                "y": 48.3678
+            },
+            "id": 15706306,
+            "title": "Bailleau-le-Pin",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.2922,
+                "y": 48.3092
+            },
+            "id": 15706369,
+            "title": "Blandainville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.38806,
+                "y": 48.1786
+            },
+            "id": 21099589,
+            "title": "Bonneval Abbey (Eure-et-Loir)",
+            "type": "landmark"
+        },
+        {
+            "coord": {
+                "x": 1.3889,
+                "y": 48.1822
+            },
+            "id": 15706402,
+            "title": "Bonneval, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3789,
+                "y": 48.2603
+            },
+            "id": 15738643,
+            "title": "Bouville, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3886,
+                "y": 48.5283
+            },
+            "id": 15706430,
+            "title": "Briconville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6575,
+                "y": 48.4931
+            },
+            "id": 15706475,
+            "title": "Champseru",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.61,
+                "y": 48.1589
+            },
+            "id": 15706593,
+            "title": "Courbehaye",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6686,
+                "y": 48.165
+            },
+            "id": 15706727,
+            "title": "Fontenay-sur-Conie",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4339,
+                "y": 48.5556
+            },
+            "id": 15706457,
+            "title": "Challet",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.43278,
+                "y": 48.49
+            },
+            "id": 34810743,
+            "title": "Chateau de Leveville",
+            "type": "landmark"
+        },
+        {
+            "coord": {
+                "x": 1.3475,
+                "y": 48.3961
+            },
+            "id": 15706547,
+            "title": "Chauffours",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3664,
+                "y": 48.4492
+            },
+            "id": 15706554,
+            "title": "Cintray, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3864,
+                "y": 48.5439
+            },
+            "id": 15706559,
+            "title": "Cl\u00e9villiers",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3511,
+                "y": 48.5094
+            },
+            "id": 15706646,
+            "title": "Dangers",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3133,
+                "y": 48.4728
+            },
+            "id": 15706717,
+            "title": "Fontaine-la-Guyon",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4075,
+                "y": 48.3972
+            },
+            "id": 15567502,
+            "title": "Fontenay-sur-Eure",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5111,
+                "y": 48.1719
+            },
+            "id": 15706443,
+            "title": "Bullainville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.57833,
+                "y": 48.5856
+            },
+            "id": 24437906,
+            "title": "Ch\u00e2teau de Maintenon",
+            "type": "landmark"
+        },
+        {
+            "coord": {
+                "x": 1.48778,
+                "y": 48.4472
+            },
+            "id": 77304,
+            "title": "Chartres Cathedral",
+            "type": "landmark"
+        },
+        {
+            "coord": {
+                "x": 1.5525,
+                "y": 48.5447
+            },
+            "id": 15706507,
+            "title": "Chartainvilliers",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5878,
+                "y": 48.4872
+            },
+            "id": 15706561,
+            "title": "Coltainville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5167,
+                "y": 48.3681
+            },
+            "id": 15706567,
+            "title": "Corancez",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4947,
+                "y": 48.3433
+            },
+            "id": 15706626,
+            "title": "Dammarie, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5031,
+                "y": 48.4694
+            },
+            "id": 15706468,
+            "title": "Champhol",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.52389,
+                "y": 48.4589
+            },
+            "id": 24436930,
+            "title": "Chartres \u2013 Champhol Aerodrome",
+            "type": "airport"
+        },
+        {
+            "coord": {
+                "x": 1.484,
+                "y": 48.456
+            },
+            "id": 98650,
+            "title": "Chartres",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3047,
+                "y": 48.2811
+            },
+            "id": 15706501,
+            "title": "Charonville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.2858,
+                "y": 48.2092
+            },
+            "id": 15706641,
+            "title": "Dangeau",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6406,
+                "y": 48.2253
+            },
+            "id": 15706685,
+            "title": "Fains-la-Folie",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3528,
+                "y": 48.2967
+            },
+            "id": 15706675,
+            "title": "Ermenonville-la-Petite",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3833,
+                "y": 48.3372
+            },
+            "id": 15706671,
+            "title": "Ermenonville-la-Grande",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.41667,
+                "y": 48.3333
+            },
+            "id": 90565,
+            "title": "Eure-et-Loir",
+            "type": "adm2nd"
+        },
+        {
+            "coord": {
+                "x": 1.3261,
+                "y": 48.3119
+            },
+            "id": 15706670,
+            "title": "\u00c9peautrolles",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3931,
+                "y": 48.4428
+            },
+            "id": 15706266,
+            "title": "Amilly, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.668,
+                "y": 48.566
+            },
+            "id": 15706772,
+            "title": "Gas, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6425,
+                "y": 48.4439
+            },
+            "id": 15706846,
+            "title": "Houville-la-Branche",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.62,
+                "y": 48.5661
+            },
+            "id": 3299835,
+            "title": "Houx",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.48333,
+                "y": 48.45
+            },
+            "id": 3314328,
+            "title": "Arrondissement of Chartres",
+            "type": "adm3rd"
+        },
+        {
+            "coord": {
+                "x": 1.48111,
+                "y": 48.4483
+            },
+            "id": 29851157,
+            "title": "Gare de Chartres",
+            "type": "railwaystation"
+        },
+        {
+            "coord": {
+                "x": 1.4775,
+                "y": 48.3028
+            },
+            "id": 15706738,
+            "title": "Fresnay-le-Comte",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4281,
+                "y": 48.3175
+            },
+            "id": 15706418,
+            "title": "La Bourdini\u00e8re-Saint-Loup",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3997,
+                "y": 48.3006
+            },
+            "id": 15706949,
+            "title": "Luplant\u00e9",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4611,
+                "y": 48.2808
+            },
+            "id": 15736019,
+            "title": "Meslay-le-Vidame",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.545,
+                "y": 48.2714
+            },
+            "id": 15914986,
+            "title": "Montainville, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4189,
+                "y": 48.515
+            },
+            "id": 15706744,
+            "title": "Fresnay-le-Gilmert",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5372,
+                "y": 48.4694
+            },
+            "id": 15706775,
+            "title": "Gasville-Ois\u00e8me",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.53,
+                "y": 48.4089
+            },
+            "id": 15706783,
+            "title": "Gellainville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5508,
+                "y": 48.5128
+            },
+            "id": 15706864,
+            "title": "Jouy, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4825,
+                "y": 48.4697
+            },
+            "id": 15706902,
+            "title": "L\u00e8ves",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4975,
+                "y": 48.4217
+            },
+            "id": 15706581,
+            "title": "Le Coudray",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4658,
+                "y": 48.4389
+            },
+            "id": 15706936,
+            "title": "Luc\u00e9, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4772,
+                "y": 48.4325
+            },
+            "id": 15163670,
+            "title": "Luisant",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5925,
+                "y": 48.5511
+            },
+            "id": 15736028,
+            "title": "M\u00e9voisins",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4628,
+                "y": 48.4539
+            },
+            "id": 15706977,
+            "title": "Mainvilliers, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3108,
+                "y": 48.4989
+            },
+            "id": 15736036,
+            "title": "Mittainvilliers",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4942,
+                "y": 48.3981
+            },
+            "id": 15736080,
+            "title": "Morancez",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5775,
+                "y": 48.4478
+            },
+            "id": 15736106,
+            "title": "Nogent-le-Phaye",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3633,
+                "y": 48.39
+            },
+            "id": 15736107,
+            "title": "Nogent-sur-Eure",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3833,
+                "y": 48.3683
+            },
+            "id": 15736017,
+            "title": "Meslay-le-Grenet",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4294,
+                "y": 48.3603
+            },
+            "id": 15736035,
+            "title": "Migni\u00e8res",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4861,
+                "y": 48.2442
+            },
+            "id": 15706781,
+            "title": "Le Gault-Saint-Denis",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.2758,
+                "y": 48.2506
+            },
+            "id": 15736029,
+            "title": "M\u00e9zi\u00e8res-au-Perche",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3936,
+                "y": 48.2217
+            },
+            "id": 15736059,
+            "title": "Montboissier",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3319,
+                "y": 48.1844
+            },
+            "id": 15736061,
+            "title": "Montharville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4389,
+                "y": 48.2156
+            },
+            "id": 15736082,
+            "title": "Moriers",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.54,
+                "y": 48.2078
+            },
+            "id": 15736105,
+            "title": "Neuvy-en-Dunois",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6578,
+                "y": 48.3311
+            },
+            "id": 15706253,
+            "title": "Allonnes, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3617,
+                "y": 48.2297
+            },
+            "id": 15706262,
+            "title": "Alluyes",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6619,
+                "y": 48.4053
+            },
+            "id": 15706730,
+            "title": "Francourville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.51944,
+                "y": 48.4567
+            },
+            "id": 9838878,
+            "title": "A-40 Chartres",
+            "type": ""
+        },
+        {
+            "coord": {
+                "x": 1.4669,
+                "y": 48.2131
+            },
+            "id": 15736252,
+            "title": "Pr\u00e9-Saint-Martin",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4686,
+                "y": 48.1853
+            },
+            "id": 15736251,
+            "title": "Pr\u00e9-Saint-\u00c9vroult",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4694,
+                "y": 48.5092
+            },
+            "id": 15736242,
+            "title": "Poisvilliers",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.3231,
+                "y": 48.5211
+            },
+            "id": 15736436,
+            "title": "V\u00e9rigny",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.2719,
+                "y": 48.2714
+            },
+            "id": 15736288,
+            "title": "Saint-Avit-les-Guespi\u00e8res",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5756,
+                "y": 48.3197
+            },
+            "id": 15736233,
+            "title": "P\u00e9zy",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6361,
+                "y": 48.3661
+            },
+            "id": 15736256,
+            "title": "Prunay-le-Gillon",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.48972,
+                "y": 48.4475
+            },
+            "id": 8908358,
+            "title": "Roman Catholic Diocese of Chartres",
+            "type": ""
+        },
+        {
+            "coord": {
+                "x": 1.5683,
+                "y": 48.2586
+            },
+            "id": 3216575,
+            "title": "Rouvray-Saint-Florentin",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5317,
+                "y": 48.4931
+            },
+            "id": 15567512,
+            "title": "Saint-Prest",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5853,
+                "y": 48.5486
+            },
+            "id": 15736347,
+            "title": "Saint-Piat",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5775,
+                "y": 48.1925
+            },
+            "id": 15736358,
+            "title": "Sancheville",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5881,
+                "y": 48.5175
+            },
+            "id": 15736386,
+            "title": "Soulaires",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5981,
+                "y": 48.4106
+            },
+            "id": 14221494,
+            "title": "Sours",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6008,
+                "y": 48.3361
+            },
+            "id": 15736389,
+            "title": "Theuville, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6722,
+                "y": 48.4781
+            },
+            "id": 15736425,
+            "title": "Umpeau",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.4792,
+                "y": 48.3861
+            },
+            "id": 15736439,
+            "title": "Ver-l\u00e8s-Chartres",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5522,
+                "y": 48.2319
+            },
+            "id": 15736459,
+            "title": "Villars, Eure-et-Loir",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.6003,
+                "y": 48.2414
+            },
+            "id": 15736462,
+            "title": "Villeau",
+            "type": "city"
+        },
+        {
+            "coord": {
+                "x": 1.5667,
+                "y": 48.2886
+            },
+            "id": 15736473,
+            "title": "Villeneuve-Saint-Nicolas",
+            "type": "city"
+        }
+    ]
+}
