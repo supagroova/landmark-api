@@ -5,7 +5,17 @@
 
 # Don't forget to assign access to this function! Eg:
 #  GRANT EXECUTE ON FUNCTION $DB_NAME.harvesine TO 'your_db_username'@'localhost';"
-# DB_NAME='wikilandmarks_tests'
+
+if [ -z $DB_NAME ]; then
+  DB_NAME='wikilandmarks'
+  echo "Using default database: $DB_NAME..."
+fi
+
+# Used in the nodejs extract_wiki_geos.js script
+if [ -z $DB_USER ]; then
+  echo "Please set a DB_USER variable! Eg: $0 DB_USER='xxx'"
+  exit 1
+fi
 
 mysql << END
 
