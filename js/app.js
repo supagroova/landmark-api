@@ -44,10 +44,10 @@ app.get('/radius.json', function(req, res) {
 	
 	// Set rows to return
 	var sql_str;
-	sql_str  = "SELECT id as pageid, harvesine(y(coord), x(coord), ?, ? ) AS dist, title, rank, ? AS lang ";
+	sql_str  = "SELECT id as pageid, harvesine(y(coord), x(coord), ?, ?) AS dist, title, Y(coord) AS lat, X(coord) AS lng, rank, ? AS lang ";
 	sql_str += "FROM ?? WHERE ";
 	sql_str += "st_within(coord, envelope(linestring(point((?-?/abs(cos(radians(?))*111)), (?-(?/69))), point((?+?/abs(cos(radians(?))*111)), (?+(?/69)))))) ";
-	sql_str += "ORDER BY dist DESC, rank DESC LIMIT ?";
+	sql_str += "ORDER BY rank DESC, dist DESC LIMIT ?";
 
 	var sql_params = [lat, lng, lang, "live_"+lang, lng, dist, lat, lat, dist, lng, dist, lat, lat, dist, per_page];
 	var sql = mysql.format(sql_str, sql_params);

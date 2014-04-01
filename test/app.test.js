@@ -77,7 +77,7 @@ describe("Landmark API", function() {
 			.expect(200)
 			.expect(function(res) {
 				res.body.should.have.property('landmarks').with.lengthOf(100);
-				_.each(['title', 'dist', 'rank', 'lang'], function(key) {
+				_.each(['title', 'lat', 'lng', 'dist', 'rank', 'lang'], function(key) {
 					res.body.landmarks[0].should.have.property(key)
 				})
 			})
