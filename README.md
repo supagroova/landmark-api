@@ -3,7 +3,18 @@
 
 Landmark API is Nodejs API for Wikipedia geo-tagged pages (it powers the [iOS Landmarks app](http://www.landmarkapp.io))
 
-The project consists of two parts described in further detail below; the API and an import script that extracts geo-tagged pages out of the Wikipedia SQL dump files which can be used to seed/update your database.
+The project consists of two parts described in further detail below; the API and an import script that extracts geo-tagged articles out of the Wikipedia SQL dump files which can be used to seed/update your database.
+
+An important feature is that geo-tagged articles are ranked based on their view count and content length to help provide better quality results when looking at larger regions.
+
+As of April 2014 the below locales have been imported:
+
+1. English:              914,811  (articles)
+1. German:               335,487  (articles)
+1. French:               299,697  (articles)
+1. Spanish:              223,140  (articles)
+1. Chinese (Simplified): 145,962  (articles)
+1. Japanese:             99,732   (articles)
 
 ## Dependencies
 
