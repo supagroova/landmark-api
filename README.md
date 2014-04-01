@@ -155,4 +155,20 @@ All requests return the same base format, an example of which is shown below.
 * The **dist** field is only included in the radius.json endpoint response
 * The **pageid** field represents the unique internal wikipedia id for that article
 
+## Motivation
+
+Why create this? During the development of the [iOS Landmarks app](http://www.landmarkapp.io), I found that the existing solutions of [geonames.org](http://www.geonames.org/export/wikipedia-webservice.html#findNearbyWikipedia) and [wikilocation.org](http://wikilocation.org/documentation/) were both way too slow and too often had invalid/false locations.
+
+Since I wanted to provide a simple solution that would be performant and cheap to run, none of the alternatives were suitable. So landmark-api was created.
+
+Not only does this provide an open-source API for accessing geo-tagged wikipedia articles but it can also be used to extract these articles from wikipedia for other purposes. :-)
+
+## Contributing
+
+Feel free to fork and submit PRs!
+
+## Feature Requests & Bugs
+
+See https://github.com/supagroova/landmark-api/issues
+
 
