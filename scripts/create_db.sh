@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Database name
 # Note: Use mysql_config_editor to set your DB credentials (it's more secure than saving them here!)

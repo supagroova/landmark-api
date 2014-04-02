@@ -1,7 +1,7 @@
 language: node_js
 node_js:
 - '0.11'
-before_script: "./script/create_db.sh en DB_NAME=wikilandmarks_test DB_USER=travis"
+before_script: "./scripts/create_db.sh en DB_NAME=wikilandmarks_test DB_USER=travis"
 env:
   global:
   - secure: RnR+rFq/ruab5bR+D2nhj3bMkvoFONve4JiRQErI4ewSxJVkQnUsDpzuboEM45r/9PMtumIMNF5PH6Zj40xZobwh2aH2liOe7G4/Wo+UMnuI2AVFi1RFVfE8g3ywT9OpaXnSo/3G0CTL16Hh/i2BUjBAKFoCKy3VlRrB9eEe3Go=

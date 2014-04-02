@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 set -e # Die if any steps produce an error
 
 # Database name
