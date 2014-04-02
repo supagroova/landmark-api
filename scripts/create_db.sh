@@ -25,7 +25,7 @@ CREATE DATABASE $DB_NAME;
 
 END
 
-LANGS=( "$@" )
+LANGS=("$@")
 if [ -z $LANGS ]; then
   LANGS=(fr en zh es de ja)
 fi
