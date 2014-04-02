@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+- '0.11'
+before_script: "./script/create_db.sh en DB_NAME=wikilandmarks_test DB_USER=travis"
+env:
+  global:
+  - secure: RnR+rFq/ruab5bR+D2nhj3bMkvoFONve4JiRQErI4ewSxJVkQnUsDpzuboEM45r/9PMtumIMNF5PH6Zj40xZobwh2aH2liOe7G4/Wo+UMnuI2AVFi1RFVfE8g3ywT9OpaXnSo/3G0CTL16Hh/i2BUjBAKFoCKy3VlRrB9eEe3Go=
+  - secure: Jg7Y+1wc1+DVvbK0UoSdB6ltjmX9e+FFO07FWANZzz5QxNTyyTdd7RUFXBmpZniq2RTKZKGiwA+j1wQsa16kWCXwgZZQDJOU4aTsLQTTcT0Qf5bM6JY2lLREsopBd0cL05CULvLxjTqKIqk5WBaTsvVxhk8MQ111+IVEjsJq7HA=

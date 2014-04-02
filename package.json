@@ -20,5 +20,8 @@
      "should": "*",
      "sinon": "*",
      "mysql-promise": "*"
-	 }
+	 },
+   "scripts": {
+    "test": "make test"
+  }
 }
